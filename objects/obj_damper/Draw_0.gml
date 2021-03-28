@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_main_button,1,x,y,global.scaleX+obj_camera_selected.scaleParametr+1,global.scaleY+obj_camera_selected.scaleParametr+1,0,noone,alpha)

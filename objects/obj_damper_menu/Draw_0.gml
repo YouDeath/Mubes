@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_select_chapter,global.chapter*2+1,x,y,global.scaleX+obj_camera_menu.scaleParametr+8,global.scaleY+obj_camera_menu.scaleParametr+8,0,noone,alpha)

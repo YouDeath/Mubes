@@ -1,0 +1,1 @@
+show_debug_message(string(positionX)+" "+string(positionY)+" "+string(id))

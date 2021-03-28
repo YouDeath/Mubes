@@ -1,0 +1,2 @@
+draw_sprite_ext(spr_save_button,0,x,y,obj_camera.scaleParametr,obj_camera.scaleParametr,0,noone,alpha)
+draw_sprite_ext(spr_save_button,1,x,y,obj_camera.scaleParametr,obj_camera.scaleParametr,0,noone,alpha)
